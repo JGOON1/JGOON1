@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JGOON14
+- 👋 Hi, I’m @JGOON1
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently reviewing front-end topics
 - 💞️ I’m looking to collaborate on any project that MERN stack
